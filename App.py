@@ -25,7 +25,7 @@ def get_table_download_link(df):
 def main():
     st.image('https://media.giphy.com/media/d1E2HXeuONnx5YfC/giphy.gif', width=200)
     st.title('App para Análise exploratória de dados')
-    st.subheader('Dados estruturados ou não estruturados podem ser inseridos')
+    st.subheader('Inclui funções para corte de linhas e colunas')
     file  = st.file_uploader('Escolha a base de dados que deseja analisar (.csv)', type = 'csv')
     if file is not None:
         st.subheader('Analisando os dados')
