@@ -21,5 +21,5 @@ Após a criação do App o mesmo foi upado para a plataforma de nuvem Heroku, ca
 
 O objetivo do App é de criar um ambiente capaz de agilizar o processo de pré processamento e vizualização de dados de uma planilha csv.
 Devido a generalidade da forma que o código foi desenvovlido o App pode suportar diferentes entradas de dados, fornecendo ferramentas de cortes de linhas e colunas antes da vizualização, além da exportação da tabela processada.
-O App apresenta ferramentas com os tipos mais comuns de gráficos e com algumas configurações extras.
+O App apresenta ferramentas com os tipos mais comuns de gráficos e com algumas configurações extras
 
