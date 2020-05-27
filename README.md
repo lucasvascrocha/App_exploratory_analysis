@@ -8,6 +8,11 @@ http://fierce-stream-21520.herokuapp.com/
 
 faça upload do arquivo csv para iniciar a análise exploratória
 
+
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/CcbMccJeMvU)
+
+
 ## Desenvolvimento
 
 O aplicativo foi desenvolvido na linguagem de programação Python através do App Streamlit e upado para a plataforma de nuvem Heroku.
