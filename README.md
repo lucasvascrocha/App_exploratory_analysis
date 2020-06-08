@@ -14,7 +14,7 @@ faça upload do arquivo csv para iniciar a análise exploratória
 
 ## Desenvolvimento
 
-O aplicativo foi desenvolvido na linguagem de programação Python através do App Streamlit e upado para a plataforma de nuvem Heroku.
+O aplicativo foi desenvolvido na linguagem de programação Python através do App Streamlit e seu deploy feito para a plataforma de nuvem Heroku.
 
 O App streamlit é capaz de criar um aplicativo com uma interface genérica e dinâmica através de uma linguagem simples que suporta python dentre outras linguagens.
 
